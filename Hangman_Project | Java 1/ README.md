@@ -9,3 +9,5 @@ This project demonstrates the following key programming concepts:
 - Input Handling: Using Scanner to accept user input and validate guesses.
 - Arrays and Strings: Manipulating characters in a word and tracking guessed letters.
 - Game Logic: Implementing conditions for winning, losing, and displaying the game state.
+
+https://github.com/user-attachments/assets/5239230c-ae83-4146-900a-91d8fcaad3d7
