@@ -12,4 +12,5 @@ This project demonstrates the following key programming concepts:
 
 ## Video Showcase
 (low quality due to video compression)
+
 https://github.com/user-attachments/assets/5239230c-ae83-4146-900a-91d8fcaad3d7
