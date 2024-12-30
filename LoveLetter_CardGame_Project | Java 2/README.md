@@ -1,5 +1,3 @@
-
-https://github.com/user-attachments/assets/afa15ab4-c76c-40b7-8221-910656467c84
 # Love Letter Card Game - Programming 2 Project
 This repository contains my Love Letter Card Game, a project developed during my Programming 2 class at Dawson College. It showcases my growing proficiency in Java programming and serves as an example of an object-oriented approach to designing and implementing interactive applications.
 This project builds upon the foundational programming skills introduced in my earlier coursework, with a focus on advanced concepts such as object-oriented design, encapsulation, and inheritance.
