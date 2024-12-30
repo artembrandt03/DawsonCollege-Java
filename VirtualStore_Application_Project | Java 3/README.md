@@ -5,7 +5,8 @@ This repository contains the MAXISO Shopping Application, a collaborative projec
 Collaboratively developed, the project simulates a virtual store, providing users with a robust and interactive shopping experience. It incorporates features like product browsing, cart management, user registration, and a streamlined checkout process.
 
 ## Concepts Demonstrated
-This project demonstrates the following key programming concepts and skills:
+
+### This project demonstrates the following key programming concepts and skills:
 
 - Object-Oriented Programming: Designing and implementing reusable and modular objects using inheritance, polymorphism, and data abstraction.
 - Programming to Interfaces: Developing flexible and extensible software by leveraging interface-based design.
@@ -13,7 +14,7 @@ This project demonstrates the following key programming concepts and skills:
 - Data Structures: Organizing and managing product data, user accounts, and shopping cart items effectively.
 - Software Version Control: Employing Git for version control, enabling effective team collaboration and seamless code integration.
 - Interactive Console Design: Creating a user-friendly, text-based interface for seamless navigation and interaction.
-- Features Overview
+### Features Overview
 - User Management: Supports both guest and registered user modes, with registered users gaining access to additional benefits such as cart functionality and reward points.
 - Product Browsing: Allows users to explore various categories (Figurines, Plushies, Electronics) with options to filter and sort products by price or collections.
 - Shopping Cart: Enables registered users to add, view, edit, and remove items from their cart, with detailed item descriptions and easy navigation.
