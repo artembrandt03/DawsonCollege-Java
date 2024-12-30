@@ -1,0 +1,20 @@
+POWERBANK,PB1234,10000,250.0,true,true,E10001,Anker PowerCore 10000,49.99,Power Collection
+HEADPHONES,HD4567,0,300.0,false,true,E10002,Sony WH-CH510,99.99,Sound Series
+PORTABLESPEAKER,PS7890,2000,500.0,true,true,E10003,JBL Flip 5,79.99,Portable Audio
+EARBUDS,EB5678,0,50.0,false,true,E10004,Apple AirPods Pro,29.99,Daily Essentials
+POWERBANK,PB9876,20000,400.0,true,false,E10005,RAVPower Power Bank,129.99,Power Collection
+HEADPHONES,HD7890,0,350.0,true,true,E10006,Bose QuietComfort 45,199.99,Sound Series
+PORTABLESPEAKER,PS2345,3000,450.0,false,true,E10007,Ultimate Ears WONDERBOOM 2,89.99,Portable Audio
+EARBUDS,EB3456,0,40.0,false,false,E10008,Samsung Galaxy Buds Live,19.99,Daily Essentials
+POWERBANK,PB6789,15000,350.0,true,true,E10009,Xiaomi Mi Power Bank 3,149.99,Power Collection
+HEADPHONES,HD9012,0,320.0,true,false,E10010,Beats Studio3 Wireless,249.99,Sound Series
+PORTABLESPEAKER,PS5678,4000,550.0,true,true,E10011,Harman Kardon Onyx Studio 7,129.99,Portable Audio
+EARBUDS,EB6789,0,45.0,true,true,E10012,Jabra Elite 7 Pro,39.99,Daily Essentials
+POWERBANK,PB3456,18000,375.0,true,false,E10013,Baseus Power Bank 20000mAh,199.99,Power Collection
+HEADPHONES,HD2345,0,400.0,true,true,E10014,Sennheiser HD 560S,299.99,Sound Series
+PORTABLESPEAKER,PS9012,2500,480.0,false,false,E10015,Marshall Emberton,99.99,Portable Audio
+EARBUDS,EB1234,0,30.0,false,true,E10016,OnePlus Buds Z2,24.99,Daily Essentials
+POWERBANK,PB4567,12000,275.0,true,true,E10017,EcoFlow River Pro 720Wh,179.99,Power Collection
+HEADPHONES,HD3456,0,315.0,false,true,E10018,Audio-Technica ATH-M50x,219.99,Sound Series
+PORTABLESPEAKER,PS6789,3500,470.0,true,true,E10019,Sonos Roam,109.99,Portable Audio
+EARBUDS,EB7890,0,35.0,false,false,E10020,Google Pixel Buds A-Series,34.99,Daily Essentials
